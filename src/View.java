@@ -20,7 +20,7 @@ public class View extends JFrame {
     }
 
     public View() {
-        this.setTitle("S28546Projekt03");
+        this.setTitle("GSM Network Simulator");
         this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         this.setLayout(new BorderLayout());
         this.setSize(new Dimension(1280, 960));
